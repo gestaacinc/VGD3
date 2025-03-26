@@ -93,7 +93,7 @@ You are tasked as a **Creative Designer** to create branding, promotional materi
   - `uiux_homepage_mobile.png`
   - Optional: `userflow.pdf` or `figma_link.txt`
 - **Filename**: `Lastname_Firstname_TropiJuice.zip`
-- **Submit via**: [Insert Google Drive, Email, or LMS link]
+- **Submit via**: [[Submit your Files Here](https://bit.ly/vgDsave)]
 
 ---
 
